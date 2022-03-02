@@ -1,4 +1,3 @@
-
 import 'package:demo_bloc/repositories/authentication_repository.dart';
 import 'package:demo_bloc/repositories/user_repository.dart';
 import 'package:demo_bloc/views/screens/home_screen.dart';
@@ -78,5 +77,3 @@ class _MainAppState extends State<MainApp> {
     );
   }
 }
-
-
